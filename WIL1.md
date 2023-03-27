@@ -1,7 +1,11 @@
 # GDSC-OC-MOBILE-WIL
 
-# Test
-## text
-`printf("hello world")`
+# 플러터 설치 및 개발환경 설정
+## 1. 플러터, 안드로이드 스튜디오 다운로드
+## 2. 윈도우 환경변수 설정
+## 3. 안드로이드 스튜디오 파일 생성
+-플러터 새 파일 만들기
+-파일이름입력
+
 
 github md file test
