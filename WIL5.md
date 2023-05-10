@@ -1,5 +1,6 @@
 # 덕부름 UI 따라만들기
 
+/*
 import 'package:flutter/material.dart';
 import 'package:week5/common/const/colors.dart';
 import 'package:week5/common/const/text.dart';
@@ -205,5 +206,5 @@ class HomePage extends StatelessWidget {
     );
   }
 }
-
+*/
 ### 현재 미완성, 진행중입니다
